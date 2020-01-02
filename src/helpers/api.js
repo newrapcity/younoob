@@ -1,3 +1,3 @@
 // YouTube API
-const api = 'YOUR_API_KEY_HERE';
+const api = 'AIzaSyD6pfzR9J93lrRnZ5AxOtrsDNyjbiqSzGk';
 export default api;
